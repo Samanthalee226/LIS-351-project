@@ -1,0 +1,50 @@
+*{
+	font-family: courier, verdana, serif;
+	color: #152;
+	text-align: center;
+}
+
+body {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+nav {
+	background-color: lemonchiffon;
+	padding: 10px;
+	margin: 10px;
+}
+
+li {
+	display: inline;
+	padding: 8px;
+}
+
+section {
+	overflow: auto;
+	height: 100%;
+}
+
+main{
+	background-color: lemonchiffon;
+	padding: 10px;
+	margin: 10px;
+}
+
+article {
+	background-color: lemonchiffon;
+	padding: 10px;
+	margin: 10px;
+	width: 280px;
+	float: left;
+}
+
+.mart {
+	background-color: forestgreen;
+}
+
+footer {
+	background-color: lemonchiffon;
+	padding: 10px;
+	margin: 10px;
+}
